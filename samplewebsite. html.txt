@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latest Politics News</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f8f9fa;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 10px;
+      background: #0056b3;
+      color: white;
+      border-radius: 5px;
+    }
+    article {
+      background: white;
+      margin-top: 15px;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      margin-top: 0;
+    }
+    a {
+      color: #0056b3;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Latest Politics News</h1>
+  <p>Updated: March 1, 2026</p>
+</header>
+
+<main id="news-list">
+  
+  <!-- News item sample -->
+  <article>
+    <h2>PM Modi Criticizes DMK in Tamil Nadu Rally</h2>
+    <p>During an NDA rally in Madurai, Prime Minister Narendra Modi sharply criticized the DMK for corruption and promised development projects worth ₹4,400 crore as part of the NDA’s agenda. <small>(source: Times of India)</small></p>
+  </article>
+
+  <article>
+    <h2>West Bengal Protests Over Voter Deletions</h2>
+    <p>West Bengal CM Mamata Banerjee will lead protests on March 6 against alleged deletion of voters from electoral rolls, accusing the Election Commission of bias. <small>(source: Times of India)</small></p>
+  </article>
+
+  <article>
+    <h2>Tensions Rise After Iran Leader’s Death</h2>
+    <p>Protests and political reactions continue following the reported death of Iran’s Supreme Leader in a conflict involving the US and Israel. Opposition voices in India have condemned the strikes. <small>(source: Economic Times)</small></p>
+  </article>
+
+  <article>
+    <h2>Rajya Sabha Elections Begin in India</h2>
+    <p>The 2026 Rajya Sabha elections are underway with 72 seats up for election across states as part of the parliamentary cycle. <small>(source: Wikipedia)</small></p>
+  </article>
+
+  <!-- Add more news articles manually -->
+
+</main>
+
+</body>
+</html>
